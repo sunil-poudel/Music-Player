@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
     private Adapter.SongsAdapter songsAdapter;
     private List<SongsList> songsList;
 
-    private static final String API_KEY = "AIzaSyDEUpouE2iN0FOB5btRODySxxZgvXH5veo";
+    private static final String API_KEY = "API_KEY_HERE_HIDDEN_FOR_SECURITY";
     private String VIDEO_ID ;
 
     @Override
