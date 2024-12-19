@@ -40,4 +40,9 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.ext.junit)
     androidTestImplementation(libs.espresso.core)
+    implementation(libs.retrofit) // Retrofit
+    implementation(libs.converter.gson) // Converter-Gson
+    implementation(libs.gson) // Gson
+
+
 }
